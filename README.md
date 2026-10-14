@@ -3,7 +3,7 @@
 ```bash
 git clone https://github.com/sarah-larkin/uil_1.git
 
-cd visco_inventory_demo
+cd uil_1
 ```
 2. Create a virtual environment
 ```bash
